@@ -31,16 +31,15 @@
 3. Пользуясь конфигуратором команд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
 4. Выполните все необходимые команды для установки Zabbix Server и Zabbix Web Server.
 
-#### Требования к результатам 
-1. Прикрепите в файл README.md скриншот авторизации в админке.
-2. Приложите в файл README.md текст использованных команд в GitHub.
+#### Скриншот авторизации в админке
+![Скриншот авторизации в админке](img/zabbix_login.png)
 
-
+#### Текст использованных команд в GitHub
 ```
-git clone https://github.com/aitik085/hw_zabbix1.git
-git commit -am "first commit prep HW"
-git commit -am "2 commit prep HW"
-git push origin
+*git clone https://github.com/aitik085/hw_zabbix1.git*
+*git commit -am "first commit prep HW"*
+*git commit -am "2 commit prep HW"*
+*git push origin*
 ```
 
 `При необходимости прикрепитe сюда скриншоты
