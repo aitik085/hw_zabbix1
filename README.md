@@ -35,11 +35,12 @@
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
-Поле для вставки кода...
-.... git clone https://github.com/aitik085/hw_zabbix1.git
-.... git add . 
-.... git commit -m "first commit prep HW"
-.... git push origin
+
+```
+git clone https://github.com/aitik085/hw_zabbix1.git
+git commit -am "first commit prep HW"
+git commit -am "2 commit prep HW"
+git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
