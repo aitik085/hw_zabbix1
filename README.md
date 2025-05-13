@@ -37,9 +37,9 @@
 
 Поле для вставки кода...
 .... git clone https://github.com/aitik085/hw_zabbix1.git
-.... git commit -m "first comm"
-....
-....
+.... git add . 
+.... git commit -m "first commit prep HW"
+.... git push origin
 ```
 
 `При необходимости прикрепитe сюда скриншоты
